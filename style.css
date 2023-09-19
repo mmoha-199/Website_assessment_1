@@ -17,5 +17,6 @@ nav{
     display: flex;
     flex-direction: column;
     width: 80%;
+    height: fit-content;
     border: 1px solid black;
 }
