@@ -8,3 +8,7 @@ nav{
     flex-direction: row;
     width: 100%;
 }
+.mydiv{
+    width: 70px;
+    border-radius: 35px;
+}
