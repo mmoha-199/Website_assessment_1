@@ -1,0 +1,15 @@
+body{
+    z-index: -1;
+    box-sizing: border-box;
+
+}
+nav{
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+}
+.mydiv{
+    display: block;
+    background-color: rgb(0, 0, 0);
+    width: 20%;
+}
